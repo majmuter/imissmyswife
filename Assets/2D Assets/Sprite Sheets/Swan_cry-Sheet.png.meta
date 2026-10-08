@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: 2833dee62ed25a348b03c0b4536ba372
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7303714023764031228
+    second: Swan_cry-Sheet_0
+  - first:
+      213: -6392435386688612151
+    second: Swan_cry-Sheet_1
+  - first:
+      213: 6572995776045143574
+    second: Swan_cry-Sheet_2
+  - first:
+      213: -5599720883584652563
+    second: Swan_cry-Sheet_3
+  - first:
+      213: 4207935325856874541
+    second: Swan_cry-Sheet_4
+  - first:
+      213: 8635334837133199532
+    second: Swan_cry-Sheet_5
+  - first:
+      213: 8851988075028401460
+    second: Swan_cry-Sheet_6
+  - first:
+      213: 4791467174062685228
+    second: Swan_cry-Sheet_7
+  - first:
+      213: 3411106401594936966
+    second: Swan_cry-Sheet_8
+  - first:
+      213: -4995161364220431505
+    second: Swan_cry-Sheet_9
+  - first:
+      213: -1748628759438574418
+    second: Swan_cry-Sheet_10
+  - first:
+      213: -7418708575108980529
+    second: Swan_cry-Sheet_11
+  - first:
+      213: 9120523622590971067
+    second: Swan_cry-Sheet_12
+  - first:
+      213: 22589204171801050
+    second: Swan_cry-Sheet_13
+  - first:
+      213: -615380236847882797
+    second: Swan_cry-Sheet_14
+  - first:
+      213: -4288868065374885334
+    second: Swan_cry-Sheet_15
+  - first:
+      213: 7118676416336212870
+    second: Swan_cry-Sheet_16
+  - first:
+      213: 7834340020988532142
+    second: Swan_cry-Sheet_17
+  - first:
+      213: 8579650357748829701
+    second: Swan_cry-Sheet_18
+  - first:
+      213: -5594158914257746465
+    second: Swan_cry-Sheet_19
+  - first:
+      213: 8063545237544452495
+    second: Swan_cry-Sheet_20
+  - first:
+      213: -200395657147714891
+    second: Swan_cry-Sheet_21
+  - first:
+      213: 4757739973662735381
+    second: Swan_cry-Sheet_22
+  - first:
+      213: 1646472563183273471
+    second: Swan_cry-Sheet_23
+  - first:
+      213: -8307797913107770636
+    second: Swan_cry-Sheet_24
+  - first:
+      213: 4890787568851155505
+    second: Swan_cry-Sheet_25
+  - first:
+      213: -281311175230738496
+    second: Swan_cry-Sheet_26
+  - first:
+      213: 1903949412889847612
+    second: Swan_cry-Sheet_27
+  - first:
+      213: -655537167930863979
+    second: Swan_cry-Sheet_28
+  - first:
+      213: -525826112549871945
+    second: Swan_cry-Sheet_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Swan_cry-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf67e7735310c5560800000000000000
+      internalID: 7303714023764031228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swan_cry-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8d9c662e18947a0800000000000000
+      internalID: -6392435386688612151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swan_cry-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616505545d8f73b50800000000000000
+      internalID: 6572995776045143574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swan_cry-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deaa994668bc942b0800000000000000
+      internalID: -5599720883584652563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swan_cry-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 0
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20448f52e6956a30800000000000000
+      internalID: 4207935325856874541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swan_cry-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 0
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca841eb484fd6d770800000000000000
+      internalID: 8635334837133199532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swan_cry-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 0
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43dcf00214498da70800000000000000
+      internalID: 8851988075028401460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swan_cry-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 0
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c73fe2206be7240800000000000000
+      internalID: 4791467174062685228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swan_cry-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 0
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e802e033fa65f20800000000000000
+      internalID: 3411106401594936966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swan_cry-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 0
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63b2e9643f9daab0800000000000000
+      internalID: -4995161364220431505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swan_cry-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 0
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eacb1ad686f9bb7e0800000000000000
+      internalID: -1748628759438574418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swan_cry-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 0
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc02c706bd37b0990800000000000000
+      internalID: -7418708575108980529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swan_cry-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 0
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbcf71289eb929e70800000000000000
+      internalID: 9120523622590971067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swan_cry-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 0
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad14b62f2c0405000800000000000000
+      internalID: 22589204171801050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swan_cry-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 0
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ddd2ec5feab577f0800000000000000
+      internalID: -615380236847882797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swan_cry-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 0
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a20dac731ea74c0800000000000000
+      internalID: -4288868065374885334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swan_cry-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 0
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683bbaafb7e9ac260800000000000000
+      internalID: 7118676416336212870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swan_cry-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 0
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5d5a0bdba29bc60800000000000000
+      internalID: 7834340020988532142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swan_cry-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 0
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e0cae1b8a011770800000000000000
+      internalID: 8579650357748829701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swan_cry-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 0
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5059a4b1e8d52b0800000000000000
+      internalID: -5594158914257746465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swan_cry-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 0
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81412acba777ef60800000000000000
+      internalID: 8063545237544452495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swan_cry-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 0
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2fd29263d083df0800000000000000
+      internalID: -200395657147714891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swan_cry-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 0
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51cf7d76c43e60240800000000000000
+      internalID: 4757739973662735381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swan_cry-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 0
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff547f4a21279d610800000000000000
+      internalID: 1646472563183273471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swan_cry-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 0
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2da7b80d5c4bc80800000000000000
+      internalID: -8307797913107770636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swan_cry-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 0
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13af441a1619fd340800000000000000
+      internalID: 4890787568851155505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swan_cry-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 0
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf26010af4981cf0800000000000000
+      internalID: -281311175230738496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swan_cry-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 0
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37ec9947ef2c6a10800000000000000
+      internalID: 1903949412889847612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swan_cry-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 0
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e4a604b6017e6f0800000000000000
+      internalID: -655537167930863979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swan_cry-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 0
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be17d3cfe3e3b8f0800000000000000
+      internalID: -525826112549871945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Swan_cry-Sheet_0: 7303714023764031228
+      Swan_cry-Sheet_1: -6392435386688612151
+      Swan_cry-Sheet_10: -1748628759438574418
+      Swan_cry-Sheet_11: -7418708575108980529
+      Swan_cry-Sheet_12: 9120523622590971067
+      Swan_cry-Sheet_13: 22589204171801050
+      Swan_cry-Sheet_14: -615380236847882797
+      Swan_cry-Sheet_15: -4288868065374885334
+      Swan_cry-Sheet_16: 7118676416336212870
+      Swan_cry-Sheet_17: 7834340020988532142
+      Swan_cry-Sheet_18: 8579650357748829701
+      Swan_cry-Sheet_19: -5594158914257746465
+      Swan_cry-Sheet_2: 6572995776045143574
+      Swan_cry-Sheet_20: 8063545237544452495
+      Swan_cry-Sheet_21: -200395657147714891
+      Swan_cry-Sheet_22: 4757739973662735381
+      Swan_cry-Sheet_23: 1646472563183273471
+      Swan_cry-Sheet_24: -8307797913107770636
+      Swan_cry-Sheet_25: 4890787568851155505
+      Swan_cry-Sheet_26: -281311175230738496
+      Swan_cry-Sheet_27: 1903949412889847612
+      Swan_cry-Sheet_28: -655537167930863979
+      Swan_cry-Sheet_29: -525826112549871945
+      Swan_cry-Sheet_3: -5599720883584652563
+      Swan_cry-Sheet_4: 4207935325856874541
+      Swan_cry-Sheet_5: 8635334837133199532
+      Swan_cry-Sheet_6: 8851988075028401460
+      Swan_cry-Sheet_7: 4791467174062685228
+      Swan_cry-Sheet_8: 3411106401594936966
+      Swan_cry-Sheet_9: -4995161364220431505
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
