@@ -316,6 +316,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e6ee360a533cf7408afdc14eb6e57a4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Interactor
+--- !u!95 &190178472 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 3026446456349544299, guid: 5e7477e78671f1d40a1a1f3d7c326c91, type: 3}
+  m_PrefabInstance: {fileID: 190178469}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &205317214
 GameObject:
   m_ObjectHideFlags: 0
@@ -953,7 +958,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2c716deab011ba74e912049970ad02e7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  animator: {fileID: 0}
+  animator: {fileID: 190178472}
 --- !u!212 &1030184168
 SpriteRenderer:
   serializedVersion: 2
