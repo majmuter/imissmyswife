@@ -22,7 +22,7 @@ public class AlcoholShot : MonoBehaviour, IInteractable
 
     void DrinkAlcohol()
     {
-        animator.SetTrigger("DrinkingPlease");
+        animator.SetTrigger("Player_drink");
         Destroy(gameObject);
     }
 }
