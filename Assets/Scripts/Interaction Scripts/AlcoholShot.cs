@@ -3,7 +3,9 @@ using UnityEngine;
 public class AlcoholShot : MonoBehaviour, IInteractable
 {
 
-    public Animator animator;
+    [SerializeField] private Animator playerAnimator;
+    [SerializeField] private GameObject interactionUI;
+    [SerializeField] private AlcoholMeter alcoholMeter;
 
     public void Interact()
     {
@@ -12,17 +14,19 @@ public class AlcoholShot : MonoBehaviour, IInteractable
 
     public void OnNotTouchingPlayer()
     {
-        
+        interactionUI.GetComponent<FadeText>().FadeOut();
     }
 
     public void OnTouchingPlayer()
     {
-        
+        interactionUI.GetComponent<FadeText>().FadeIn();
     }
 
     void DrinkAlcohol()
     {
-        animator.SetTrigger("Player_drink");
+        playerAnimator.SetTrigger("DrinkAlcohol");
+        alcoholMeter.AddAlcohol();
         Destroy(gameObject);
+
     }
 }

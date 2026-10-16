@@ -50,11 +50,17 @@ TagManager:
   - name: Kiosk
     uniqueID: 613081753
     locked: 0
+  - name: Alcohol
+    uniqueID: 2777552391
+    locked: 0
   - name: Player
     uniqueID: 129578515
     locked: 0
   - name: Bridge
     uniqueID: 985305825
+    locked: 0
+  - name: Decor
+    uniqueID: 1390767183
     locked: 0
   - name: Default
     uniqueID: 0

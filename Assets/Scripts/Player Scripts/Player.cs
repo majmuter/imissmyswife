@@ -16,6 +16,7 @@ public class Player : MonoBehaviour
     private Rigidbody2D rb;
     private bool isGrounded;
     private float moveInput;
+    private bool isDrinking;
 
     private Animator animator;
 
@@ -63,6 +64,13 @@ public class Player : MonoBehaviour
 
     private void SetAnimation(float moveInput)
     {
+        animator.SetBool("isMoving", Mathf.Abs(moveInput) > 0.01f);
+        animator.SetBool("isGrounded", isGrounded);
+        /*
+        if (isDrinking)
+        {
+            return;
+        }
 
         if (isGrounded)
         {
@@ -80,6 +88,23 @@ public class Player : MonoBehaviour
             if (rb.linearVelocityY > 0)
                 animator.Play("Player_JUmp");
         }
+        */
     }
+
+    /*public void StartDrinking()
+    {
+        if (isDrinking)
+        {
+            return;
+        }
+
+        isDrinking = true;
+        animator.Play("Player_drink", 0, 0f);
+    }
+
+    public void StopDrinking()
+    {
+        isDrinking = false;
+    }*/
 }
 
